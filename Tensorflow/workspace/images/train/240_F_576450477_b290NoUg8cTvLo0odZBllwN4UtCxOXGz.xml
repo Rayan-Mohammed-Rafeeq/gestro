@@ -1,0 +1,26 @@
+<annotation>
+	<folder>hello</folder>
+	<filename>240_F_576450477_b290NoUg8cTvLo0odZBllwN4UtCxOXGz.jpg</filename>
+	<path>E:\sihn languages\hello\240_F_576450477_b290NoUg8cTvLo0odZBllwN4UtCxOXGz.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>198</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hello</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>123</xmin>
+			<ymin>33</ymin>
+			<xmax>166</xmax>
+			<ymax>75</ymax>
+		</bndbox>
+	</object>
+</annotation>

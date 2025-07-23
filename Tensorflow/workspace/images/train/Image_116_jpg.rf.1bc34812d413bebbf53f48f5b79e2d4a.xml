@@ -1,0 +1,26 @@
+<annotation>
+	<folder>victory</folder>
+	<filename>Image_116_jpg.rf.1bc34812d413bebbf53f48f5b79e2d4a.jpg</filename>
+	<path>E:\sihn languages\victory\Image_116_jpg.rf.1bc34812d413bebbf53f48f5b79e2d4a.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Victory</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>374</xmin>
+			<ymin>70</ymin>
+			<xmax>613</xmax>
+			<ymax>310</ymax>
+		</bndbox>
+	</object>
+</annotation>

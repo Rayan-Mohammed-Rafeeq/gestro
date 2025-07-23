@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Rock On</folder>
+	<filename>istockphoto-855676712-612x612.jpg</filename>
+	<path>E:\sihn languages\Rock On\istockphoto-855676712-612x612.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>408</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rock On</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>142</ymin>
+			<xmax>208</xmax>
+			<ymax>316</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Rock On</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>438</xmin>
+			<ymin>172</ymin>
+			<xmax>557</xmax>
+			<ymax>347</ymax>
+		</bndbox>
+	</object>
+</annotation>

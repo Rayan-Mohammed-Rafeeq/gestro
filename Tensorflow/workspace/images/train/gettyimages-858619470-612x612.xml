@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Rock On</folder>
+	<filename>gettyimages-858619470-612x612.jpg</filename>
+	<path>E:\sihn languages\Rock On\gettyimages-858619470-612x612.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>408</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rock On</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>151</xmin>
+			<ymin>169</ymin>
+			<xmax>229</xmax>
+			<ymax>261</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Rock On</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>321</xmin>
+			<ymin>123</ymin>
+			<xmax>448</xmax>
+			<ymax>217</ymax>
+		</bndbox>
+	</object>
+</annotation>

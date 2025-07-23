@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Yes</folder>
+	<filename>istockphoto-518546205-612x612.jpg</filename>
+	<path>E:\sihn languages\Yes\istockphoto-518546205-612x612.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>408</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Yes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>170</xmin>
+			<ymin>189</ymin>
+			<xmax>262</xmax>
+			<ymax>253</ymax>
+		</bndbox>
+	</object>
+</annotation>
